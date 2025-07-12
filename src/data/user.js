@@ -1,12 +1,14 @@
+// src/data/user.js
+
 const user = {
-  name: "Liza",
-  city: "New York",
-  bio: "I made this!",
+  name: "Ada Lovelace",
+  city: "London",
   color: "firebrick",
+  bio: "First computer programmer and analytical thinker.",
   links: {
-    github: "https://github.com/liza",
-    linkedin: "https://www.linkedin.com/in/liza/",
-  },
+    github: "https://github.com/ada",
+    linkedin: "https://linkedin.com/in/ada"
+  }
 };
 
 export default user;
